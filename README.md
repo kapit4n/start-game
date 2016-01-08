@@ -14,3 +14,7 @@ Running `grunt test` will run the unit tests with karma.
 ## Install
 npm install
 bower install
+
+## Requiriments
+* Add the documentation on the wiki
+* Add the createJS library to work with it
